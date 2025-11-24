@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RandomNumberGenerator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
